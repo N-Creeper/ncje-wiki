@@ -1,3 +1,3 @@
 export default {
-  base: "/wiki/",
+  base: "/assets/",
 }
