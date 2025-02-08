@@ -36,6 +36,8 @@ export default defineConfig({
           },
           { text: '常见问题', link: '/faq',
           }
+          { text: '赞助', link: '/donate',
+          }
         ]
       },
     ],
