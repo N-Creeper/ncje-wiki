@@ -8,6 +8,7 @@ export default defineConfig({
   ],
   title: "NCJE",
   description: "NCJE Wiki",
+  lastUpdated: true,
   themeConfig: {
     search: {
       provider: 'local'
