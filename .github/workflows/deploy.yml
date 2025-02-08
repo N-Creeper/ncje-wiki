@@ -4,26 +4,28 @@ on:
   push:
     branches:
       - main
-  workflow_dispatch:
 
 jobs:
   deploy:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v2
-        with:
-          fetch-depth: 0
 
-      - uses: actions/setup-node@v3
+      - name: Setup Node.js
+        uses: actions/setup-node@v3
         with:
-          node-version: 20
-          cache: pnpm
+          node-version: 20  # 使用 Node.js v20
 
-      - uses: pnpm/action-setup@v2
-        with:
-          version: 8
+      - name: Install pnpm
+        run: |
+          # 安装 pnpm
+          npm install -g pnpm@latest-10
+          # 检查 pnpm 是否正确安装
+          which pnpm
+          pnpm --version
 
-      - run: pnpm install --frozen-lockfile
+      - name: Install dependencies
+        run: pnpm install --frozen-lockfile
 
       - name: Build
         run: pnpm docs:build
