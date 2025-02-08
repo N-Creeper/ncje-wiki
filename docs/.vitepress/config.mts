@@ -35,8 +35,8 @@ export default defineConfig({
           { text: '加入服务器', link: '/join',
           },
           { text: '常见问题', link: '/faq',
-          }
-          { text: '赞助', link: '/donate',
+          },
+          { text: '赞助相关', link: '/donate',
           }
         ]
       },
