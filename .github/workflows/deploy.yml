@@ -8,21 +8,18 @@ on:
 jobs:
   deploy:
     runs-on: ubuntu-latest
+    permissions:
+      contents: write  # 确保有足够的权限
     steps:
       - uses: actions/checkout@v2
 
       - name: Setup Node.js
         uses: actions/setup-node@v3
         with:
-          node-version: 20  # 使用 Node.js v20
+          node-version: 20
 
       - name: Install pnpm
-        run: |
-          # 安装 pnpm
-          npm install -g pnpm@latest-10
-          # 检查 pnpm 是否正确安装
-          which pnpm
-          pnpm --version
+        run: npm install -g pnpm@latest-10
 
       - name: Install dependencies
         run: pnpm install --frozen-lockfile
