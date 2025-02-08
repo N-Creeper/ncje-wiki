@@ -5,7 +5,7 @@ layout: home
 hero:
   name: "NCJE"
   text: "服务器官方文档"
-  tagline: 新玩法、新物品、常用命令，解决你的所有问题！
+  tagline: 关于服务器的一切，解决你的所有问题！
   actions:
     - theme: brand
       text: 快速开始
