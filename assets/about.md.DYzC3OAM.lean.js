@@ -1,1 +1,0 @@
-import{_ as r,c as o,o as a,ag as e}from"./chunks/framework.BGTmPBnp.js";const _=JSON.parse('{"title":"关于服务器","description":"","frontmatter":{},"headers":[],"relativePath":"about.md","filePath":"about.md"}'),n={name:"about.md"};function s(l,t,i,p,g,c){return a(),o("div",null,t[0]||(t[0]=[e("",12)]))}const h=r(n,[["render",s]]);export{_ as __pageData,h as default};

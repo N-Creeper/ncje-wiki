@@ -1,0 +1,1 @@
+import{_ as e,c as r,o as t,ag as o}from"./chunks/framework.yy8jtyEM.js";const _=JSON.parse('{"title":"服务器规定","description":"","frontmatter":{},"headers":[],"relativePath":"server.md","filePath":"server.md"}'),n={name:"server.md"};function s(i,a,p,l,h,d){return t(),r("div",null,a[0]||(a[0]=[o("",15)]))}const u=e(n,[["render",s]]);export{_ as __pageData,u as default};
