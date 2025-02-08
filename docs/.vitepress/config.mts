@@ -7,7 +7,7 @@ export default defineConfig({
     ["link", { rel: "icon", href: `logo.svg` }],
   ],
   title: "NCJE",
-  description: "NCJE",
+  description: "NCJE Wiki",
   themeConfig: {
     search: {
       provider: 'local'
