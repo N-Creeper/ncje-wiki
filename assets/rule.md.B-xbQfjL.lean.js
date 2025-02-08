@@ -1,1 +1,0 @@
-import{_ as r,c as e,o as a,ag as o}from"./chunks/framework.yy8jtyEM.js";const g=JSON.parse('{"title":"玩家规定","description":"","frontmatter":{},"headers":[],"relativePath":"rule.md","filePath":"rule.md"}'),n={name:"rule.md"};function s(l,t,p,_,i,c){return a(),e("div",null,t[0]||(t[0]=[o("",9)]))}const h=r(n,[["render",s]]);export{g as __pageData,h as default};
