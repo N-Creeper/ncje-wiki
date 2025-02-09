@@ -38,7 +38,7 @@ export default defineConfig({
         text: '服务器内容',
         items: [
           { text: '常用指令', link: '/command' },
-          { text: '玩法', link: '/about',
+          { text: '玩法', link: '/fun',
             items: [
               { text: '关于主世界', link: '/world' },
               { text: '空岛生存', link: '/skyblock' },
