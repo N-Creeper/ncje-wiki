@@ -56,7 +56,7 @@ export default defineConfig({
           { text: '物品', link: '/items',
             items: [
               { text: '农作物', link: '/crops' },
-              { text: '武器', link: '/weapons' }
+              { text: '武器', link: '/weapons' },
               { text: '家具装饰', link: '/furniture' }
             ]
           },
