@@ -1,0 +1,1 @@
+import{_ as e,c as t,o as r,ag as o}from"./chunks/framework.CkHWihve.js";const _=JSON.parse('{"title":"加入服务器","description":"","frontmatter":{},"headers":[],"relativePath":"join.md","filePath":"join.md"}'),n={name:"join.md"};function p(i,a,l,s,h,c){return r(),t("div",null,a[0]||(a[0]=[o("",20)]))}const u=e(n,[["render",p]]);export{_ as __pageData,u as default};
