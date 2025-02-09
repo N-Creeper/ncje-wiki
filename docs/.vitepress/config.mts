@@ -48,8 +48,8 @@ export default defineConfig({
           { text: '玩法', link: '/about',
             items: [
               { text: '关于主世界', link: '/world' },
-              { text: '空岛生存', link: '/skyblock' }
-              { text: '单方块生存', link: '/oneblock' }
+              { text: '空岛生存', link: '/skyblock' },
+              { text: '单方块生存', link: '/oneblock' },
               { text: '钓鱼机制', link: '/fishing' }
              ]
           },
