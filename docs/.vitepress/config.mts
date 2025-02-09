@@ -13,7 +13,7 @@ export default defineConfig({
       provider: 'local'
     },
     footer: {
-      copyright: 'Copyright © 2025 NCJE 我的世界公益生存服务器'
+      copyright: 'Copyright © 2025 NCJE'
     },
     // https://vitepress.dev/reference/default-theme-config
     nav: [
