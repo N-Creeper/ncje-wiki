@@ -8,27 +8,11 @@
 
 填写完毕后在群公告找到主群群号，申请进入即可
 
-耐心等待，审核通过后会加入主群
-
-## 安装Java
-
-服务器版本为1.21.1，推荐使用jdk21的Java版本。
-
-下载地址：[Java 下载 |Oracle 中国](https://www.oracle.com/cn/java/technologies/downloads/#jdk21-windows)
-
-## 下载启动器
-
-服务器仅限制于Minecraft Java版，推荐可使用以下启动器：
-
-PCL2：[PCL 最新正式版永久下载丨龙腾猫跃丨爱发电](https://afdian.com/p/0164034c016c11ebafcb52540025c377)
-
-HMCL：[下载 - Hello Minecraft! Launcher](https://hmcl.huangyuhui.net/download/)
-
-移动端加入服务器：可在一些视频平台或搜索引擎搜索移动端游玩Minecraft Java版的方法，在这里暂时不做详细教程。
+耐心等待，审核通过后会进入主群
 
 ## 安装游戏
 
-来到下载页面，找到游戏版本“1.21.1”，下载安装即可。
+服务器版本为Java 1.21.1。来到启动器下载页面，找到游戏版本“1.21.1”，下载安装、启动即可。
 
 其他的具体详细教程暂不做过多赘述，可在一些视频平台或搜索引擎搜索Minecraft Java版安装方法。
 
@@ -44,7 +28,7 @@ HMCL：[下载 - Hello Minecraft! Launcher](https://hmcl.huangyuhui.net/download
 
 ## 加入服务器
 
-**服务器地址：请加入QQ群获取**
+**服务器地址：请审核通过后在QQ主群获取**
 
 启动游戏后，点击“多人游戏”
 
